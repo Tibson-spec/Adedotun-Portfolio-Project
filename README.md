@@ -42,8 +42,6 @@ Responsibilities
 
 -Delivered actionable recommendations projected to achieve a 15% increase in seasonal sales and a 5% reduction in costs.
 
-[Querycode]https://github.com/Tibson-spec/Sample-Superstore-Portfolo-project/blob/main/Sample%20superstore%20query.sql
-
 
 
 
