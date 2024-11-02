@@ -9,7 +9,7 @@ Bachelor of Science in Medical Biochemistry
 
 ### Projects
 Personal Project – Adidas Sales Data Analysis
-Role: Data Analyst
+#Role: Data Analyst
 October 2024 – Present
 
 Responsibilities:
@@ -25,7 +25,8 @@ Responsibilities:
 SQL, Power BI, Excel, Data Cleaning, Data Manipulation, Data Visualization, Problem Solving
 
 
-Data Analyst – E-commerce Sales Analysis
+
+#Data Analyst – E-commerce Sales Analysis
 Self-Directed Project
 
 Responsibilities
