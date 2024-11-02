@@ -29,6 +29,7 @@ SQL, Power BI, Excel, Data Cleaning, Data Manipulation, Data Visualization, Prob
 
 
 Data Analyst – E-commerce Sales Analysis
+
 Self-Directed Project
 
 Responsibilities
