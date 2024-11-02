@@ -1,13 +1,5 @@
 title: Adedotun Toheeb Adekunle
 logo:
-#description:👋 Hi there! I'm a Data Analyst with expertise in data visualization, statistical analysis, and predictive modeling. My passion lies in turning complex data into actionable insights that drive business decisions. Through my projects, I aim to solve real-world problems using data.
-Key Skills:
-- Languages**: SQL
-- Data Visualization: Power BI
-- Data Cleaning & Analysis: Excel and SQL
-
-Featured Projects:
-- Sample Superstore Analysis: Conducted data exploration in SQL to identify sales and profit trends, followed by visualizations in Power BI for strategic insights.
-- Adidas Sales Analysis: Cleaned and prepped data in Excel, analyzed sales trends using SQL, and created interactive dashboards in Power BI to visualize KPIs and regional performance.I focus on creating clear, data-driven solutions that help businesses make impactful decisions. 
+descriptio:
 show_downloads: false
 theme: jekyll-theme-minimal.
