@@ -28,7 +28,7 @@ SQL, Power BI, Excel, Data Cleaning, Data Manipulation, Data Visualization, Prob
 
 
 
-Data Analyst – E-commerce Sales Analysis
+[Data Analyst – E-commerce Sales Analysis] https://github.com/Tibson-spec/Sample-Superstore-Portfolo-project/blob/main/Sample%20superstore%20query.sql
 
 Self-Directed Project
 
