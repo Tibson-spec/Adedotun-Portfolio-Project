@@ -28,7 +28,7 @@ SQL, Power BI, Excel, Data Cleaning, Data Manipulation, Data Visualization, Prob
 
 
 
-[Data Analyst – E-commerce Sales Analysis] https://github.com/Tibson-spec/Sample-Superstore-Portfolo-project/blob/main/Sample%20superstore%20query.sql
+Data Analyst – E-commerce Sales Analysis
 
 Self-Directed Project
 
@@ -41,6 +41,8 @@ Responsibilities
 -Developed Power BI dashboards to visualize sales trends and customer purchase patterns effectively.
 
 -Delivered actionable recommendations projected to achieve a 15% increase in seasonal sales and a 5% reduction in costs.
+
+https://github.com/Tibson-spec/Sample-Superstore-Portfolo-project/blob/main/Sample%20superstore%20query.sql
 
 
 
